@@ -1,4 +1,4 @@
-Week 1 Readings:
+# Week 1 Readings:
 
 [P. Polack, F. Altche, B. Dandrea-Novel, and A. D. L. Fortelle, “The kinematic bicycle model: A consistent model for planning feasible trajectories for autonomous vehicles” 2017 IEEE Intelligent Vehicles Symposium (IV), 2017.  Gives an overview of the kinematic bicycle model.](https://www.researchgate.net/publication/318810853_The_kinematic_bicycle_model_A_consistent_model_for_planning_feasible_trajectories_for_autonomous_vehicles)
 
@@ -9,6 +9,6 @@ Week 1 Readings:
 [M. Pivtoraiko, R. A. Knepper, and A. Kelly, “Differentially constrained mobile robot motion planning in state lattices,” Journal of Field Robotics, vol. 26, no. 3, pp. 308-333, 2009. Introduces the state lattice planning method.](https://ri.cmu.edu/pub_files/2009/3/ross.pdf)
 
 
-Week 5
-Book on Reinforcement Learning
-http://incompleteideas.net/book/RLbook2020.pdf
+# Week 5
+
+[Book on Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf)
