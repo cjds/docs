@@ -23,4 +23,4 @@
 
 # Week 1 Readings
 
-A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles
+[A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/abs/1604.07446)
